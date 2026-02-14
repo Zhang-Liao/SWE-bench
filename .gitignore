@@ -170,3 +170,5 @@ cython_debug/
 data/repos/copies
 notebooks/
 *logs/
+swebench_test_markdown/
+swebench_dev_markdown/
